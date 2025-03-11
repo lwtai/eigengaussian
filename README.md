@@ -1,8 +1,6 @@
 # EigenGS: From Eigenspace to Gaussian Image Space
 
-This repository host the [EigenGS project website](https://lwtai.github.io/eigengaussian/).
-
-## Links
+This repository host the [website](https://lwtai.github.io/eigengaussian/) of EigenGS project.
 - [arXiv Paper](https://arxiv.org/abs/2503.07446)
 - [Code Repository](https://github.com/lwtai/EigenGS)
 
